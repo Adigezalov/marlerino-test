@@ -1,0 +1,13 @@
+.general-card {
+    min-height: 100%
+}
+
+.general-card-title {
+    padding: 0 32px
+}
+
+.general-card-container {
+    display: flex;
+    max-height: 100%;
+    flex-direction: column
+}

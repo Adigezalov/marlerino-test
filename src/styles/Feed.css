@@ -1,0 +1,32 @@
+.feed-list {
+    flex: 1;
+    margin-top: 32px;
+    overflow: auto;
+    padding-right: 32px
+}
+
+.feed-card {
+    position: relative;
+    margin-bottom: 16px
+}
+
+.feed-card-container {
+    padding-right: 40px;
+}
+
+.feed-card-description {
+    margin-top: 15px;
+}
+
+.feed-card-date {
+    margin-top: 32px;
+}
+
+.feed-card-image {
+    position: absolute;
+    right: -10px
+}
+
+.feed-card-image>img {
+    width: 100%;
+}

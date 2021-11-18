@@ -1,0 +1,26 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 20px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.button-left {
+    display: flex;
+    align-items: center;
+}
+
+.button-icon-left {
+    display: flex;
+    align-items: center;
+    margin-right: 18px
+}
+
+.button-icon-right {
+    display: flex;
+    align-items: center;
+    /*margin-left: 18px*/
+}
